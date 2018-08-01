@@ -1,0 +1,2 @@
+# AzureTemplates
+Vnet with NSG
