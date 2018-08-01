@@ -182,7 +182,7 @@
                     }
                 ],
                 "virtualNetworkPeerings": [],
-                "enableDdosProtection": false
+                "enableDdosProtection": false,
                 "enableVmProtection": false
             },
             "dependsOn": [
